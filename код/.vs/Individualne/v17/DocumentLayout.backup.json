@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\",
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|c:\\users\\anton\\desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|c:\\users\\anton\\desktop\\\u0431\u043E\u043D\u0434\u0430\u0440 \u0430\u043D\u0434\u0440\u0456\u0439 \u0432\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u043F\u0456231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\individualne\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\individualne\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DA510CB-30FA-406C-8C4A-48735C87C21F}|Individualne\\Individualne.csproj|solutionrelative:individualne\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -68,50 +68,47 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form1.cs",
               "RelativeDocumentMoniker": "Individualne\\Form1.cs",
-              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form1.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form1.cs",
               "RelativeToolTip": "Individualne\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:46:35.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T07:46:35.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form2.cs",
               "RelativeDocumentMoniker": "Individualne\\Form2.cs",
-              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form2.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form2.cs",
               "RelativeToolTip": "Individualne\\Form2.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T06:14:02.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T06:14:02.26Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form4.cs",
               "RelativeDocumentMoniker": "Individualne\\Form4.cs",
-              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form4.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form4.cs",
               "RelativeToolTip": "Individualne\\Form4.cs",
               "ViewState": "AgIAAGUBAAAAAAAAAAAuwHQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:40:28.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T07:40:28.648Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form5.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form5.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form5.cs",
               "RelativeDocumentMoniker": "Individualne\\Form5.cs",
-              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form5.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form5.cs",
               "RelativeToolTip": "Individualne\\Form5.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T20:02:27.674Z",
               "EditorCaption": ""
@@ -120,10 +117,10 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form1.cs",
               "RelativeDocumentMoniker": "Individualne\\Form1.cs",
               "ToolTip": "C:\\Users\\bonda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Individualne\\Individualne\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\bonda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Individualne\\Individualne\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\bonda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Individualne\\Individualne\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T05:43:52.912Z"
             },
@@ -131,45 +128,42 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form2.cs",
               "RelativeDocumentMoniker": "Individualne\\Form2.cs",
               "ToolTip": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form2.cs [Design]",
-              "RelativeToolTip": "Individualne\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T06:09:32.564Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-19T06:09:32.564Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form4.cs",
               "RelativeDocumentMoniker": "Individualne\\Form4.cs",
               "ToolTip": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form4.cs [Design]",
-              "RelativeToolTip": "Individualne\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\..\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T06:17:22.751Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-19T06:17:22.751Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form5.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form5.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Form5.cs",
               "RelativeDocumentMoniker": "Individualne\\Form5.cs",
               "ToolTip": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form5.cs [Design]",
-              "RelativeToolTip": "Individualne\\Form5.cs [Design]",
+              "RelativeToolTip": "..\\..\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T20:01:53.62Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-22T20:01:53.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Class1.cs",
               "RelativeDocumentMoniker": "Individualne\\Class1.cs",
-              "ToolTip": "C:\\Users\\anton\\Desktop\\\u0411\u043E\u043D\u0434\u0430\u0440 \u0410\u043D\u0434\u0440\u0456\u0439 \u0412\u043E\u043B\u043E\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447 \u041F\u0406231 \u0456\u043D\u0434\u0438\u0432\u0456\u0434\u0443\u0430\u043B\u044C\u043D\u0435 \u0437\u0430\u0432\u0434\u0430\u043D\u043D\u044F\\Individualne\\Class1.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\git_okr_2\\\u043A\u043E\u0434\\Individualne\\Class1.cs",
               "RelativeToolTip": "Individualne\\Class1.cs",
               "ViewState": "AgIAAGYBAAAAAAAAAAAAwG0BAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
