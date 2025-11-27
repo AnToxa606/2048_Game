@@ -11,6 +11,7 @@ using System.Xml.Schema;
 
 namespace Individualne
 {
+    //
     public static class UserManager
     {
         private static string filePath = "users.txt";
