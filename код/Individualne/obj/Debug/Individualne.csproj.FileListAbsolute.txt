@@ -1,0 +1,74 @@
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.csproj.AssemblyReference.cache
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.Login.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.GameForm.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.Properties.Resources.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.csproj.GenerateResource.cache
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.csproj.CoreCompileInputs.cache
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\bin\Debug\Individualne.exe.config
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\bin\Debug\Individualne.exe
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\bin\Debug\Individualne.pdb
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.exe
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.pdb
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.MainMenuForm.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.PauseMenuForm.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\bin\Debug\Interop.WMPLib.dll
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Interop.WMPLib.dll
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Individualne\Individualne\obj\Debug\Individualne.csproj.ResolveComReference.cache
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.exe.config
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.exe
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.pdb
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Interop.WMPLib.dll
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.AssemblyReference.cache
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Interop.WMPLib.dll
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.ResolveComReference.cache
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.MainMenuForm.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.Login.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.GameForm.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.PauseMenuForm.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.Properties.Resources.resources
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.GenerateResource.cache
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.CoreCompileInputs.cache
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.exe
+C:\Users\bonda\OneDrive\Рабочий стол\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.pdb
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.exe.config
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.exe
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.pdb
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Interop.WMPLib.dll
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.AssemblyReference.cache
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.exe.config
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Interop.WMPLib.dll
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.ResolveComReference.cache
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.MainMenuForm.resources
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.Login.resources
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.GameForm.resources
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.PauseMenuForm.resources
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.Properties.Resources.resources
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.GenerateResource.cache
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.CoreCompileInputs.cache
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.exe
+C:\Users\bonda\Desktop\papkaa\практика\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.pdb
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.exe.config
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.exe
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Individualne.pdb
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\Interop.WMPLib.dll
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.exe.config
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Interop.WMPLib.dll
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.ResolveComReference.cache
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.MainMenuForm.resources
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.Login.resources
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.GameForm.resources
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.PauseMenuForm.resources
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.Properties.Resources.resources
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.exe
+C:\Users\anton\Desktop\Бондар Андрій Володимирович ПІ231 індивідуальне завдання\Individualne\obj\Debug\Individualne.pdb
